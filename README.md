@@ -1,6 +1,8 @@
 All the things I have/will learn in the Summer holidays of 2025
 
 1)Cpp and python basics - apna-college
+  i)yt videos
+  ii)col100 class notes of fall2024,spring2025
 2)Cpp DSA theory - apna-college
 3)opencv,ROS2 - aero-club tasks
 4)Pilot training in Picasim - aero-club
